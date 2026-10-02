@@ -32,5 +32,4 @@ npm run dev
 
 ## Potential Next Steps
 - Make the like button interactive (increment/toggle like count on click)
-- Add a "post a comment" input
 - Pull post data from a real backend (e.g. Firebase) instead of a static array
